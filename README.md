@@ -17,4 +17,4 @@ through the subset of Bechdel scored movies. Some of the questions I intend to a
 * Do bechdel scores have an influence on ratings or ROI?
 * Do movies with lower/higher budgets have lower/higher bechdel scores? What does this say about representation in more 'mainstream' movies?
 
-I will attempt to answer these questions using Pandas with groupby and different visualizations. My project can be found in the file final_assignment.ipynb.
+I will attempt to answer these questions using Pandas with groupby and different visualizations. My project can be found in the file bechdel_movies.ipynb.
